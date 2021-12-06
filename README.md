@@ -4,8 +4,15 @@ portfolio of tableau projects
 ## Project 1 - NYC motor vehicle accident and collisons
 Ongoing project with the objective of focusing the factors, areas, time, and rate of collison against other vehicles to lower risk of Cyclist injury and Fatalities.
 
+Dashboard1
 <img alt="Motor Vehicle collisons" src="project1/dashboard1-BigPicture.PNG" width=250>
+Dashboard2
+<img alt="Motor Vehicle collisons" src="project1/Dashboard2 - DeepDive.PNG" width=250>
+Dashboard3
 <img alt="Motor Vehicle collisons" src="project1/NYCaccident.PNG" width=250>
+Dashboard4
+<img alt="Motor Vehicle collisons" src="project1/Dashboard3 - Cyclist Fatalities.PNG" width=250>
+
 
 
 ## Project 2 - Dashboard with Overlay comments
