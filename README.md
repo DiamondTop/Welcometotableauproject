@@ -6,10 +6,13 @@ Ongoing project with the objective of focusing the factors, areas, time, and rat
 
 Dashboard1
 <img alt="Motor Vehicle collisons" src="project1/dashboard1-BigPicture.PNG" width=250>
+
 Dashboard2
 <img alt="Motor Vehicle collisons" src="project1/Dashboard2 - DeepDive.PNG" width=250>
+
 Dashboard3
 <img alt="Motor Vehicle collisons" src="project1/NYCaccident.PNG" width=250>
+
 Dashboard4
 <img alt="Motor Vehicle collisons" src="project1/Dashboard3 - Cyclist Fatalities.PNG" width=250>
 
